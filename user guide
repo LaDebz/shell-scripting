@@ -1,0 +1,5 @@
+howto update repository on server
+create file in github
+then ls
+then git pull
+then cat file name
